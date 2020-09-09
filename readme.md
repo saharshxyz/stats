@@ -2,7 +2,7 @@
 
 [Another Profile Summary](https://profile-summary-for-github.com/user/saharsh)
 
-[![Saharsh's github stats](https://github-readme-stats.vercel.app/api?username=saharsh&show_icons=true$count_private=true)](https://github-readme-stats.vercel.app/api?username=saharsh&show_icons=true$count_private=true&hide_rank=true)
+[![Saharsh's github stats](https://github-readme-stats.vercel.app/api?username=saharsh&show_icons=true$count_private=true&hide_rank=true)](https://github-readme-stats.vercel.app/api?username=saharsh&show_icons=true$count_private=true&hide_rank=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saharsh&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=saharsh&layout=compact)
 
 ![](https://raw.githubusercontent.com/saharsh/personal-stats/master/profile-summary-card-output/default/0-profile-details.svg)
